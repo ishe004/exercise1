@@ -2,4 +2,9 @@
     <string name="app_name">Merlin\'s Android Labs</string>
     <string name="hello_message">Hello World!</string>
     <string name="button_message">I\'m a button</string>
+    <string name="editmessage" translatable="false">I\'m an EditText</string>
+    <string name="hinttext" translatable="false">I\'m a hintText</string>
+    <string name="checkbox" translatable="false">I\'m a checkbox</string>
+    <string name="switchmessage" translatable="false">I\'m a switch</string>
+    <string name="radiomessage" translatable="false">I\'m a radiobutton</string>
 </resources>

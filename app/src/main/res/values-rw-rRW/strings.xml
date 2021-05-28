@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Merlin\'s Android Labs</string>
+    <string name="hello_message">Muraho!</string>
+    <string name="button_message">Nkandaho</string>
+</resources>
